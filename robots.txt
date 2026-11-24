@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aegisxpert.vercel.app/sitemap.xml
